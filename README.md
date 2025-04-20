@@ -28,19 +28,15 @@ Choose **one** of the following links:
    cd <repository-name>
    ```
 
-### **Step 2: Create a New Private Repository**
-1. Go to your **private GitHub account** and create a new private repository (e.g., `internship-task-web-scraping`).
-2. Add the GitHub user `nawaj2417` as a collaborator with **read access** to your private repository:
-   - Go to your private repository settings.
-   - Navigate to "Collaborators and teams."
-   - Add `nawaj2417` as a collaborator.
+### **Step 2: Create a New Public Repository**
+1. Go to your **GitHub account** and create a new public repository (e.g., `internship-task-web-scraping`).
 
 ### **Step 3: Push Code to Your Private Repository**
-1. Link your local cloned repository to your private repository:
+1. Link your local cloned repository to your new public repository:
    ```
    git remote set-url origin https://github.com/<your-username>/<your-private-repo-name>.git
    ```
-2. Push the code to your private repository:
+2. Push the code to your repository:
    ```
    git push origin main
    ```
@@ -148,7 +144,7 @@ git push origin main
 
 ### **Step 3: Share Your Repository URL**
 
-1. Copy the URL of your private GitHub repository.  
+1. Copy the URL of your public GitHub repository.  
 2. Share the URL by filling out the following form:  
    **[Submit your GitHub URL here](https://docs.google.com/forms/d/e/1FAIpQLScGYGStfdn_FfUzpgRWjH-_4W7232jglpFyrOtCAHXCG5KRQQ/viewform?usp=header)**
 
