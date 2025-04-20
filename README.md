@@ -31,7 +31,7 @@ Choose **one** of the following links:
 ### **Step 2: Create a New Public Repository**
 1. Go to your **GitHub account** and create a new public repository (e.g., `internship-task-web-scraping`).
 
-### **Step 3: Push Code to Your Private Repository**
+### **Step 3: Push Code to Your Public Repository**
 1. Link your local cloned repository to your new public repository:
    ```
    git remote set-url origin https://github.com/<your-username>/<your-private-repo-name>.git
