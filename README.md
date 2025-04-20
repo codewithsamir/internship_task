@@ -144,11 +144,13 @@ Push your changes to the `main` branch of your private repository:
 git push origin main
 ```
 
-### **Step 3: Share Your Repository URL**
-1. Copy the URL of your private repository.
-2. Share the URL with us via email or any communication channel provided.
 
----
+
+### **Step 3: Share Your Repository URL**
+
+1. Copy the URL of your private GitHub repository.  
+2. Share the URL by filling out the following form:  
+   **[Submit your GitHub URL here](https://docs.google.com/forms/d/e/1FAIpQLScGYGStfdn_FfUzpgRWjH-_4W7232jglpFyrOtCAHXCG5KRQQ/viewform?usp=header)**
 
 ## **Evaluation Criteria**
 Your submission will be evaluated based on the following criteria:
