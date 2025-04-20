@@ -168,5 +168,3 @@ Your submission will be evaluated based on the following criteria:
 
 Good luck! 🚀
 
-# Note : please submit the repo link on the google docs 
-https://docs.google.com/forms/d/e/1FAIpQLScGYGStfdn_FfUzpgRWjH-_4W7232jglpFyrOtCAHXCG5KRQQ/viewform?usp=header
