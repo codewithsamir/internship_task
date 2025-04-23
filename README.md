@@ -8,6 +8,8 @@ The objective of this task is to extract structured information from one of the 
 - Ensure data accuracy and consistency.
 - Use Git and GitHub for version control.
 
+**Note** :- You may use any programming language of your choice (e.g., Python, JavaScript, etc.) to complete the web scraping task.
+
 ### **Webpage Links**
 Choose **one** of the following links:
 1. [Global Enrichment Programme](https://world-camps.org/camp/global-enrichment-programme/)
