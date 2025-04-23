@@ -8,7 +8,9 @@ The objective of this task is to extract structured information from one of the 
 - Ensure data accuracy and consistency.
 - Use Git and GitHub for version control.
 
-**Note** :- You may use any programming language of your choice (e.g., Python, JavaScript, etc.) to complete the web scraping task.
+**Note** :- 
+- You may use any programming language of your choice (e.g., Python, JavaScript, etc.) to complete the web scraping task.
+- Manual scraping (i.e., copying and pasting data by hand) is strictly not allowed. Your code should programmatically extract the data from the web page.
 
 ### **Webpage Links**
 Choose **one** of the following links:
