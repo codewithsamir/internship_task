@@ -134,7 +134,7 @@ Save the JSON file as `camp_data.json` in the root directory of your private rep
    git commit -m "Added extracted camp data in JSON format"
    ```
 
-### **Step 2: Push Changes to Your Private Repository**
+### **Step 2: Push Changes to Your Repository**
 Push your changes to the `main` branch of your private repository:
 ```sh
 git push origin main
